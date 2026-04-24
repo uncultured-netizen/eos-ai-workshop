@@ -4,8 +4,7 @@ I'm a Grade 9 student at EOS Sunshine School, Chennai.
 This is my portfolio for the EOS × Spark AI Workshop 2026.
 
 ## Why I'm learning AI
-Because AI will change every industry in my lifetime,
-and I want to be the one building it — not watching.
+Because AI is the future, and it can be used to do a lot of good, and I want to be part of it.
 
 ## What's inside
 - `week-01/` — AI foundations + Python basics
