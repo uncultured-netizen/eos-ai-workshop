@@ -1,7 +1,8 @@
-# hello-world
+
+## hello-world
 Cool stuff I made during my time at the Spark AI/ML Workshop I joined during my summer holidays
 
-## Stuff that's here (or will be here, if it isn't here yet)
+##Stuff that's here (or will be here, if it isn't here yet)
 -WEEK ONE: a movie recommender thingy (NOT FINAL NAME)
 -WEEK TWO: CSK predictor thingy (ALSO NOT FINAL NAME, also im rcb fan anyway so ¯\_(ツ)_/¯)
 -WEEK THREE: digit recogniser + sentiment predictor 
