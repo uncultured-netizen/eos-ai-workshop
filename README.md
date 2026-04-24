@@ -20,5 +20,5 @@ Python, NumPy, Pandas, scikit-learn, TensorFlow, OpenAI APIs
 since this is basically my first repository, there's bound to be mistakes. I'll probablt fix them in the future (when i feel like it).
 
 ## My Personal Website (not part of this but give a visit anyway ;-))
-[Click this 4 fun stuff](profidiotscorp.neocities.org)
+[Click this 4 fun stuff](https://profidiotscorp.neocities.org)
 
