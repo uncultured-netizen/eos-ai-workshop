@@ -114,9 +114,9 @@ In a standard **Decision Tree**, the algorithm looks at **every available featur
 
 
 
-* `n\_estimators`: The number of trees in the forest. Generally, more trees increase accuracy and make the model more stable, but after a certain point, you get diminishing returns and the model just becomes slower to train.
-* `max\_depth`: The maximum height of each tree. It limits how many "splits" a tree can make. Keeping this low prevents trees from becoming too complex and overfitting, while setting it too high allows trees to capture finer details (but increases the risk of memorizing noise).
-* `max\_features`: The size of the random subset of features considered at each split. This is the "feature randomness" as shown above. it determines how many columns a tree is allowed to look at when deciding how to split the data, ensuring the trees in the forest stay diverse.
+* `n_estimators`: The number of trees in the forest. Generally, more trees increase accuracy and make the model more stable, but after a certain point, you get diminishing returns and the model just becomes slower to train.
+* `max_depth`: The maximum height of each tree. It limits how many "splits" a tree can make. Keeping this low prevents trees from becoming too complex and overfitting, while setting it too high allows trees to capture finer details (but increases the risk of memorizing noise).
+* `max_features`: The size of the random subset of features considered at each split. This is the "feature randomness" as shown above. it determines how many columns a tree is allowed to look at when deciding how to split the data, ensuring the trees in the forest stay diverse.
 
 
 
