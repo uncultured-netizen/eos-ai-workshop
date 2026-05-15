@@ -13,4 +13,7 @@ Because AI is the future, and it can be used to do a lot of good, and I want to 
 - `week-04/` — Vibe Coding + AI apps
 
 ## Tools I'm learning
-Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API
+Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI APIs
+
+### [WEEK 2 HOMEWORK](https://colab.research.google.com/drive/15Ssh7kDur41cIHWuI_Rs5NtnfnnxVQT1#scrollTo=0NIs4Sq3UA8_)
+### [WEEK 3 HOMEWORK](https://colab.research.google.com/drive/1tdsPigCut31Ahj6XWR6-Sd2ctKQIxYzY#scrollTo=8d0fb5c8)
